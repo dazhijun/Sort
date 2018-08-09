@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98c9e12f-38ea-44dd-8e56-248f036dcc70" name="Default" comment="err2">
+    <list default="true" id="98c9e12f-38ea-44dd-8e56-248f036dcc70" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/tt.java" afterPath="$PROJECT_DIR$/src/tt.java" />
     </list>
@@ -73,8 +73,8 @@
       <file leaf-file-name="tt.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="50">
+              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -448,7 +448,7 @@
       <workItem from="1533603912902" duration="14970000" />
       <workItem from="1533690355855" duration="971000" />
       <workItem from="1533715589433" duration="5360000" />
-      <workItem from="1533776970823" duration="2843000" />
+      <workItem from="1533776970823" duration="3047000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1533716888856</created>
@@ -478,11 +478,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533777675169</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="err3">
+      <created>1533779842039</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533779842039</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50316000" />
+    <option name="totallyTimeSpent" value="50520000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,7 +569,9 @@
     <MESSAGE value="tt" />
     <MESSAGE value="err" />
     <MESSAGE value="err2" />
-    <option name="LAST_COMMIT_MESSAGE" value="err2" />
+    <MESSAGE value="err3" />
+    <option name="LAST_COMMIT_MESSAGE" value="err3" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1041,8 +1050,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="50">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
