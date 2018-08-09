@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98c9e12f-38ea-44dd-8e56-248f036dcc70" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/tt.java" afterPath="$PROJECT_DIR$/src/tt.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,8 +72,8 @@
       <file leaf-file-name="tt.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -124,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/selectSort.java" />
         <option value="$PROJECT_DIR$/src/wineSort.java" />
         <option value="$PROJECT_DIR$/src/insertSort.java" />
+        <option value="$PROJECT_DIR$/src/tt.java" />
       </list>
     </option>
   </component>
@@ -334,11 +336,25 @@
       <option name="project" value="LOCAL" />
       <updated>1533716888856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交int b">
+      <created>1533781031052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533781031052</updated>
+    </task>
+    <task id="LOCAL-00003" summary="此时别人已经加了一个int c,和我所做的修改相同，此时我不pull直接push，看看是否会merge">
+      <created>1533781258530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533781258530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44180000" />
+    <option name="totallyTimeSpent" value="44642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -408,6 +424,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -419,7 +443,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tt" />
-    <option name="LAST_COMMIT_MESSAGE" value="tt" />
+    <MESSAGE value="提交int b" />
+    <MESSAGE value="此时别人已经加了一个int c,和我所做的修改相同，此时我不pull直接push，看看是否会merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="此时别人已经加了一个int c,和我所做的修改相同，此时我不pull直接push，看看是否会merge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -895,8 +921,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="125">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
